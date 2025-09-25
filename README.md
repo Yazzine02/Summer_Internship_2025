@@ -53,7 +53,7 @@ This internship allowed me to:
 ---
 
 ## Screenshots
-![alt text](https://github.com/Yazzine02/Summer_Internship_2025/blob/main/auth.png "Authentication")
+![alt text]("Authentication")
 
 ![alt text](https://github.com/Yazzine02/Summer_Internship_2025/blob/main/jobs.png "Jobs Page")
 
