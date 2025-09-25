@@ -52,19 +52,8 @@ This internship allowed me to:
 
 ---
 
-## 👏 Acknowledgments
-I would like to sincerely thank:  
-- **ALIHAMDI Imam**, our academic supervisor at EMSI.  
-- **EMSI** (École Marocaine des Sciences de l’Ingénieur) and all its professors.  
-- The **jury members** for evaluating our internship project.  
-- **Digisense**, our host company.  
-- **TERRADA Youssef**, our industry supervisor.  
-- **Oualid**, engineer at Digisense, for his valuable advice.  
-
----
-
-## 📌 Conclusion
-This internship was a rewarding opportunity to bridge the gap between academic learning and professional practice.  
-By contributing to a real-world project, I gained both **technical expertise** and **collaborative experience**, which will serve as a strong foundation for my future career as a computer science engineer.  
+## Screenshots
+![alt text](https://github.com/Yazzine02/Summer_Internship_2025/blob/main/auth.png"Authentication")
+![alt text](https://github.com/Yazzine02/Summer_Internship_2025/blob/main/jobs.png"Jobs Page")
 
 ---
