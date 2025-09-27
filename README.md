@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This repository documents the work carried out during my **summer internship (1.5 months)** at **Digisense**, in collaboration with my teammate.  
-The project focused on improving and finalizing a **social media mobile application dedicated to restaurateurs**, designed to connect professionals in the gastronomy field.  
+The project focused on improving and finalizing a **social media mobile application dedicated to restaurateurs**, designed to connect professionals in the gastronomy field.
 
 The application allows users to:
 - Post and apply for **job opportunities** in the gastronomy sector.  
